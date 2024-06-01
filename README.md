@@ -1,5 +1,5 @@
 
-![](b.gif)
+![](star.gif)
 
 ## Ana Rodrigues
 🖥️ PhD at DESY.
