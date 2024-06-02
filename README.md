@@ -2,7 +2,7 @@
 ![](star.gif)
 
 ## Ana Rodrigues
-🖥️ PhD at DESY.
+🖥️  PhD at DESY.
 
 ### Languages
 
