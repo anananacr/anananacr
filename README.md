@@ -6,9 +6,9 @@
 
 :microscope: synchrotron, XFELs, X-rays diffraction, high-energy electron diffraction, serial crystallography, protein crystallography, small molecule crystallography
 
-:books: serial crystallography data processing, data reduction, phasing and strcuture refinment.
+:books: serial crystallography data processing, data reduction, phasing and strcuture refinement.
 
-🖥️ ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 :mailbox: sc.anarodrigues@gmail.com
 
