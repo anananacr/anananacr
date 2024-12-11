@@ -1,7 +1,7 @@
 
 ![](star.gif)
 
-## Ana Rodrigues
+## Ana Carolina Rodrigues
 :open_file_folder: PhD candidate in Physics, at the University of Hamburg (UHH) and the Deutsches Elektronen-Synchrotron DESY in Hamburg, Germany.
 
 :microscope: synchrotron, XFELs, X-rays diffraction, high-energy electron diffraction, serial crystallography, protein crystallography, small molecule crystallography
